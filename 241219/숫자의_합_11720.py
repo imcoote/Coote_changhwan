@@ -1,3 +1,10 @@
+"""
+ * 소요시간: 1 분
+ * 시간복잡도: O(n) 	
+ * 메모리: 32412 kb	
+ * 시간: 44 ms
+"""
+
 # 총 숫자 갯수 - total_num
 # 공백 없는 숫자 변수 - num_no_space
 total_num = int(input())

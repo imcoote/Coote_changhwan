@@ -1,3 +1,10 @@
+"""
+ * 소요시간: 1 분
+ * 시간복잡도: O(n) 	
+ * 메모리: 32412 kb	
+ * 시간: 32 ms
+"""
+
 # 총 금액과 물건 갯수 입력받기
 total_amount = int(input())
 total_num = int(input())
